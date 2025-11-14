@@ -327,7 +327,7 @@
     % Marges: dalt=esquerra=dreta=2cm 
     \raisebox{-4cm}{\hspace{2cm}\includegraphics[height=2cm]{template-basis/logo-upv}% grandÃ ria 116mmx37mm escalada a 62.7mmx20mm
     \hspace{5.54cm}% 21cm-(2+6.27+5.19+2)cm
-                    \includegraphics[height=2cm]{template-basis/logo-etsinf}% grandÃ ria 109mmx42mm escalada a 51.9mmx20mm
+                    \includegraphics[height=2cm]{template-basis/miarfid.eps}% grandÃ ria 109mmx42mm escalada a 51.9mmx20mm
                     }}}
 \AddToShipoutPicture*{\includegraphics[width=21cm,height=12.89cm]{template-basis/baseportada}}
 \centering
